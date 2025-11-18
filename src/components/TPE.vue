@@ -51,7 +51,7 @@ const ffpAmount = computed(() => {
     <!-- <h1>Therapeutic Plasma Exchange (TPE/PLEX)</h1> -->
      <h2>Patient Parameters</h2>
      <div style="display: grid; grid-template-columns: auto auto;">
-         <div style="display: grid; grid-template-columns: 3rem auto; gap: 1rem; align-items: center; margin: 1rem 0rem;">
+         <div style="display: grid; grid-template-columns: 3rem auto; gap: 1rem; align-items: center; margin: 1rem 0rem; align-content: start">
              <div>
                  <label>Sex:</label>
              </div>
