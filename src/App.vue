@@ -7,7 +7,7 @@ const selectedView = ref('TPE')
 </script>
 
 <template>
-  <header>
+  <header style="width: 450px;">
     <h1>TPE/PLEX Calculator</h1>
   </header>
   <!-- <select v-model="selectedView">
